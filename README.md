@@ -1,6 +1,11 @@
 # CodeIn - A real time code Integration platform
 
 CodeIn is a collaborative, real-time code editor where users can seamlessly code together. It provides a platform for multiple users to enter a room, share a unique room ID, and collaborate on code simultaneously.
+![Screenshot (142)](https://github.com/user-attachments/assets/da9cb4e0-2198-43f3-b611-eb11b4544367)
+![Screenshot (143)](https://github.com/user-attachments/assets/8e631cd5-c62c-4ad2-9fef-44fd817dd9d2)
+![Screenshot (144)](https://github.com/user-attachments/assets/2cbdb46e-3824-4392-9fb4-8b9c076be38f)
+![Screenshot (145)](https://github.com/user-attachments/assets/cbc238f6-8b2f-4e5a-a70a-3b0b99a62a71)
+![Screenshot (146)](https://github.com/user-attachments/assets/9959019e-dcd6-4335-a261-3de0d2cef8af)
 
 ## 🔮 Features
 
